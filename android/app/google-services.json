@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932419670359",
+    "project_id": "fir-cloudstorage-9fcf2",
+    "storage_bucket": "fir-cloudstorage-9fcf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932419670359:android:653cef7f05d22d9261ee12",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudstorage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkro1dfzCpvfs6rOL1xnOx1P0RK0aXA0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
